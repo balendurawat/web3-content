@@ -99,3 +99,49 @@ Hashing
 
 Day11:
 
+Hash Function
+
+-Hash functions are algorithms that take data of any size and convert it into a fixed-length hexadecimal number, or hash. 
+-Hash functions are one-way functions and cannot be reversed to reveal the data inputted to create the hash. 
+-The Bitcoin blockchain utilizes the SHA-256 hash algorithm in its transaction validation process.
+
+
+Day12:
+
+Hash Rate
+
+-The hash rate is the unit of measure for the computing power of a Proof-of-Work consensus mechanism. 
+-The hash rate is valued in terahashes per second (TH/s), and increases or decreases according to the number of miners operating on the network.
+
+
+Day13:
+
+
+Illuvium Configuration Change Proposal (ICCP)
+
+-Illuvium Configuration Change Proposals (ICCPs) are a mechanism used by the Illuvium blockchain gaming platform that allow for proposed changes to Illuvium’s System Configuration Variables. 
+-ICCPs are documents that are used to propose changes to configurations within the Illuvium platform and its underlying architecture and are usually composed of potential amendments to marketplace fees, balance changes, configurable council values, and capture mechanics within the Illuvium protocol. 
+-The authors of individual ICCPs are responsible for building consensus within the community and analyzing various community opinions in relation to the proposal.
+
+
+Day14:
+
+Key Management Interoperability Protocol (KMIP)
+
+-The Key Management Interoperability Protocol (KMIP) facilitates the exchange of data between cryptographic key management servers and clients. 
+-It plays a key connective role in the function of crypto wallets and other decentralized products. 
+-KMIP was established by the Organization for the Advancement of Structured Information Standards (OASIS), a nonprofit consortium focused on the development and adoption of open, global information-sharing standards.
+
+
+
+Day15:
+
+LAND (The Sandbox)
+
+-In The Sandbox game, LAND is a digital piece of real estate in the metaverse measuring 96x96 meters. 
+-LAND is an ERC-721 token. When a player combines multiple LANDS into one property, it is called an Estate.
+
+
+Day16:
+
+
