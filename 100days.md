@@ -144,4 +144,35 @@ LAND (The Sandbox)
 
 Day16:
 
+Byzantine Fault Tolerance (BFT)
+
+-Byzantine Fault Tolerance (BFT) refers to a blockchain network's ability to reach consensus and continue operating even if some of the nodes in the network fail to respond or respond with incorrect information. 
+-A network that is Byzantine Fault Tolerant solves the Byzantine Generals' Problem, a situation in which all parties must agree but one or more parties are unreliable. -Most actively used blockchain consensus mechanisms are Byzantine Fault Tolerant.
+
+
+Day17:
+
+Cosmos (ATOM)
+
+-Cosmos is a platform designed to connect independent blockchain networks. 
+-The platform facilitates data transfer between different blockchains to facilitate what is referred to as the ‘internet of blockchains.’ 
+-ATOM is the native token of the Cosmos network, and it is used for transaction payments, governance voting, and staking to secure the network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
