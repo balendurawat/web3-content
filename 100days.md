@@ -237,24 +237,23 @@ Secure Proof of Stake (SPoS) (Elrond Network)
 Day24:
 
 
-
-
-
-
-
+Security Token Offering (STO)
+-Security Token Offerings (STOs) are a method of distributing security tokens and exist somewhere between Initial Coin Offerings (ICOs) and Initial Public Offerings (IPOs). 
+-To better understand this, it's important to note that security tokens are equity tokens that represent an equity stake in a company or asset, in addition to whatever future returns are associated with partial ownership of that entity, such as dividend payouts. 
+-STOs are generally considered superior to ICOs due to the fact that STOs offer instant settlement times, clearer regulatory guidelines, higher liquidity, and a lower barrier to entry in many instances, among other benefits. 
+-Since enterprises that create registered securities must adhere to specific compliance and regulatory requirements, STOs avoid a lot of the market ambiguity which ultimately turned many investors off to ICOs, while continuing to offer a straightforward, investor-friendly method of issuing, trading, and storing tokenized equity shares.
 
 
 
 Day25:
 
 
-
-
-
-
-
-
-
+Segregated Witness (SegWit)
+-Segregated Witness (SegWit) is the name of a soft fork that was carried out on the Bitcoin network which changed the transaction format of the protocol. 
+-Segwit separates signature data from transaction data within the blockchain to increase the total amount of data within a specific block. 
+-By rearranging the data contained in each block more efficiently, more space is freed up which allows for the inclusion of additional data. 
+-SegWit is capable of increasing Bitcoin's block size limit from 1MB to 2MB and was designed to mitigate the blockchain size limitation issues that periodically slow down transaction speeds on the Bitcoin network. 
+-This is accomplished by "segregating" the transaction into two segments by removing the unlocking signature's "witness" data from the original portion and appending it as a separate structure at the end of the block.
 
 
 
@@ -264,67 +263,62 @@ Day 26:
 
 
 
-
-
-
-
+SHA-256
+-SHA-256 is a member of the SHA-2 cryptographic hash function family that was designed by the National Security Agency (NSA) and later made famous for being a foundational aspect of the Bitcoin blockchain network. 
+-SHA-256 is a Secure Hash Algorithm (SHA) that secures data by utilizing a cryptographic mathematical operation to generate a unique 256-bit, 64-character random sequence of letters and numbers (called a hash) out of an input. 
+-These functions are generally designed to serve as a one-way function that is virtually impossible to reverse once a piece of underlying data has been amended into its hash value.
 
 
 
 Day 27:
 
 
-
+Shamir Secret Sharing (SSS) Cryptography
+-Shamir Secret Sharing (SSS) cryptography is a specialized cryptographic algorithm that was initially proposed in 1979 by Isreali cryptographer Adi Shamir. 
+-Shamir Secret Sharing is designed to secure data through encryption. 
+-It accomplishes this by sharing private “secrets” within a distributed computing network. 
+-This process allows data to be separated into many shares, yet it only requires a small portion of the shares to reconstruct the original secret. 
+-Because of its structure, Shamir’s algorithm is extremely adaptable and extensible, and provides the framework that allows secret owners to modify or remove shares without modifying the original secret.
 
 
 Day 28:
 
+Sidechain (Side Chain)
+-A sidechain (or side chain) is an external secondary blockchain protocol that is connected to a primary blockchain network (mainchain). 
+-Sidechains are typically designed to allow for the transfer of data and value between themselves and the mainchain, and oftentimes use a different consensus mechanism than the mainchain. 
+-As a result, sidechains can allow for a higher degree of flexibility and scalability, given that systems with a significant sidechain interoperability component are often designed to cater to a broader range of enterprise and individual users. 
+-For example, some sidechain solutions allow for the transfer of assets back and forth between multiple protocols like Ethereum and Bitcoin. 
+-Other examples of sidechain capabilities include enhancements used for Layer-2 scaling solutions to increase the transaction speeds of the mainchain
 
 
 
 Day 29:
 
 
-
-
-
-
-
+Signature (Cryptographic)
+-A cryptographic signature is a mathematical mechanism that is used to verify the authenticity of a digital message or digital document within a digital network. 
+-Cryptographic signatures are commonly used for financial transactions, digital contract management, software distribution, and a broad array of other use cases that prioritize the accurate detection and prevention of forgery and data-tampering. 
+-In regards to blockchain technology, cryptographic signatures are typically used to prove that the correct private key was used to initiate and send a transaction through a complex authentication process that involves the use of both a private and public key.
 
 
 Day30:
 
-
-
-
-
-
-
-
-
-
+SKALE (SKL) Token
+SKL is an ERC-777 token that facilitates SKALE Network staking and security, payments, rewards, and governance voting.
 
 
 Day 31:
 
-
-
-
-
-
-
-
+SKALE Elastic Sidechains
+SKALE Elastic Sidechains are highly configurable blockchains that operate on virtualized subnodes. Users create Elastic Sidechains by submitting their request to the SKALE Manager along with the required subscription fee.
 
 
 
 Day 32:
 
 
-
-
-
-
-
+SKALE Network
+SKALE is an Ethereum sidechain network that creates a high-throughput, low-latency, low-cost environment for decentralized app (dApp) development.
 
 
 
@@ -332,15 +326,8 @@ Day 33:
 
 
 
-
-
-
-
-
-
-
-
-
+SKALE Node Core
+A SKALE Network node is known as a SKALE Node Core. Each of these nodes is compartmentalized into virtualized subnodes to accommodate multiple Elastic Sidechains simultaneously.
 
 
 
@@ -348,22 +335,23 @@ Day 34:
 
 
 
+SKALE Virtualized Subnode
+SKALE virtualized subnodes enable each SKALE Node Core to run multiple Elastic Sidechains simultaneously. In general, virtualized subnodes enable elastic provisioning of network resources according to each user’s requirements.
 
 
 
 
 Day 35:
 
-
-
-
-
-
-
-
+Token Migration
+A token migration is the process of moving a cryptocurrency’s coins or tokens from one blockchain to another. This often happens when a project transitions from using a third-party blockchain (such as Ethereum) to operating their own proprietary blockchain. Token migrations can also happen for other reasons, such as migrating from one chain to another to save on transaction costs.
 
 
 Day 36:
+
+Tokenomics
+-Tokenomics, a portmanteau of “token” and “economics,” refers to the underlying attributes of a cryptocurrency token that incentivize users to adopt the token’s project ecosystem. 
+-Among cryptocurrency investors, the term is commonly referred to in terms of how the token is utilized within the project ecosystem, or how the token will follow a monetary policy as the project develops. -Therefore, the term tokenomics encapsulates a variety of processes and concepts, some of which are hard-coded into a blockchain's protocol, and others which are more speculative in nature.
 
 
 
@@ -373,55 +361,38 @@ Day 36:
 Day 37:
 
 
-
-
-
-
-
-
+Verifiable Delay Function (VDF)
+-A verifiable delay function (VDF) is a cryptographic primitive created in 2018, built to run a given number of sequential steps which allows the end result to be efficiently verified. 
+-VDFs can be implemented within the context of blockchain and computer systems to help create trustless, public randomness in network-based environments. 
+-To achieve their desired result within a distributed system, verifiable delay functions generally involve three main processes: setup, evaluation, and verification.
 
 
 
 Day 38:
 
-
-
-
-
-
-
-
+Wallet
+-A cryptocurrency wallet is a device or service that stores users' public and private keys, allowing them to interact with various blockchains and to send and receive crypto assets. 
+-Wallets can be digital (software) or physical (hardware), hot (connected to the internet) or cold (disconnected from the internet), custodial (a trusted third party has control of a user’s private keys) or non-custodial (only the user controls their private keys).
 
 
 
 
 Day39:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Digital Currency
+-A digital currency is a currency that exists purely in a digital form, without a physical manifestation. 
+-Digital currencies possess multiple advantages over their traditional counterparts, including lowered transaction costs, greater transparency, increased transaction speeds, as well as decentralization. 
+-Various forms of digital currencies have existed since the late 1980s, but it was not until 2009 that the double-spend problem was solved through the Bitcoin blockchain protocol and the bitcoin (BTC) cryptocurrency.
 
 
 Day 40:
 
 
 
+Decentralized Oracle Network (DON)
+-Generally, a decentralized oracle network (DON) refers to a network of decentralized blockchain oracles that provide external data to blockchains or requesting smart contracts. 
+-With many different data sources and an oracle system that isn’t controlled by a single entity, DONs provide increased security and transparency to drastically improve smart contract functionality. 
+-For example, #Chainlink and #BandProtocol are two popular DONs.
 
 
 
