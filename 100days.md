@@ -162,6 +162,266 @@ Cosmos (ATOM)
 
 
 
+Day 18:
+
+Cosmos Gravity Bridge
+
+-The Cosmos Gravity Bridge is a specialized type of blockchain architecture that is designed to act as a bridge between the Cosmos Hub blockchain and the Ethereum network. 
+-Its main purpose is to facilitate the transfer of ERC-20 assets originating on Ethereum over to various Cosmos-based blockchains — and then back again to Ethereum if needed.
+
+
+
+Day 19:
+
+
+Cosmos Hub
+
+-The Cosmos Hub is the primary blockchain protocol used for connecting with other blockchains as part of the Cosmos Network's endeavor to facilitate an 'internet of blockchains.' 
+-The Cosmos Hub is a Proof-of-Stake blockchain built by the Ignite team. 
+-Its ATOM token is used to both secure the network through staking and vote on governance decisions.
+
+
+
+
+Day20:
+
+Cosmos Software Development Kit (SDK)
+-The Cosmos Software Development Kit (SDK) is a framework that allows developers to build Proof-of-Stake (PoS) and Proof-of-Authority (PoA) blockchains. 
+-The framework is designed to construct application-specific blockchains rather than more generalized virtual machine-based blockchains. 
+-The Cosmos SDK is a scalable, open-source infrastructure, and is used to build blockchain platforms such as the Cosmos Hub.
+
+
+
+Day21:
+
+
+Peg (Stablecoin)  (special hastags : #trading, #cryptotrading, #stablecoin)
+-A peg is a predetermined price used to establish the exchange rate between two assets. 
+-Normally, most assets fluctuate with market forces, but stablecoins are pegged to assets like the U.S. dollar to maintain price stability and to safeguard investors against market volatility. 
+-Generally, stablecoins are given a hard peg or a soft peg. 
+-Different stablecoin types maintain their peg by different mechanisms. 
+-These include backing the stablecoin 1:1 with fiat currency reserves, crypto-collateralized stablecoins, supply-modifying stablecoins, and other peg-maintaining designs.
+
+
+
+Day22:
+
+
+Roll-Up
+-Roll-ups are an off-chain aggregation of transactions inside a smart contract. 
+-Roll-ups are used to combine and process smart contract transactions off-chain before settling the final state on-chain. 
+-This is done to lower transaction fees given that the rising popularity of decentralized finance (DeFi) offerings has caused fees to increase substantially on some blockchain protocols. 
+-Roll-ups are considered a throughput solution, not a scaling solution, as they usually require additional hardware to settle transactions on-chain.
+
+
+
+
+
+Day23:
+
+
+Secure Proof of Stake (SPoS) (Elrond Network)
+-Secure Proof of Stake (SPoS) is Elrond Network’s enhanced version of Proof of Stake (PoS). 
+-It enables advanced security and distributed fairness while eliminating computational waste that Proof-of-Work (PoW) systems typically struggle with. 
+-The SPoS consensus system achieves high security through a Byzantine Fault Tolerant (BFT)-like consensus methodology that utilizes instantaneous randomized validator selection through the reshuffling of nodes into other shards. 
+-To accomplish this, SPoS makes use of Boneh–Lynn–Shacham (BLS) multi-signature technology to randomly select nodes within each shard to achieve validator selection finalization in 100 milliseconds, or 0.1 seconds.
+
+
+
+
+
+
+
+
+
+Day24:
+
+
+
+
+
+
+
+
+
+
+Day25:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 26:
+
+
+
+
+
+
+
+
+
+
+Day 27:
+
+
+
+
+
+Day 28:
+
+
+
+
+Day 29:
+
+
+
+
+
+
+
+
+
+Day30:
+
+
+
+
+
+
+
+
+
+
+
+
+Day 31:
+
+
+
+
+
+
+
+
+
+
+
+Day 32:
+
+
+
+
+
+
+
+
+
+
+Day 33:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 34:
+
+
+
+
+
+
+
+Day 35:
+
+
+
+
+
+
+
+
+
+
+Day 36:
+
+
+
+
+
+
+Day 37:
+
+
+
+
+
+
+
+
+
+
+
+Day 38:
+
+
+
+
+
+
+
+
+
+
+
+
+Day39:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 40:
+
+
+
 
 
 
